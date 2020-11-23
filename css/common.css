@@ -18,7 +18,7 @@ button span {position: relative;}
 .main-pr {overflow: hidden; margin-bottom: 70px; position: relative;}
 .main-pr h3 {width: 1200px; margin: 0 auto; font-size: 34px; padding: 80px 0 20px;}
 .main-pr .pr-slide .slick-arrow {position: absolute; top: 130px; width: 34px; height: 34px; display: inline-block; text-indent: -9999px; cursor: pointer; z-index: 100;}
-.main-pr .pr-slide .slick-prev {left: -37px; background: url(../images/btn_left_pr.jpg) no-repeat;}
+.main-pr .pr-slide .slick-prev {left: -43px;background: url(../images/btn_left_pr.jpg) no-repeat;}
 .main-pr .pr-slide .slick-next {right: -37px; background: url(../images/btn_right_pr.jpg) no-repeat;}
 .main-pr .btn-pr {position: absolute; right: 50%; top: 90px; margin-right: -597px;}
 .pr-slide {width: 1200px; margin: 0 auto;}
