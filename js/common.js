@@ -54,5 +54,4 @@ $(document).ready(function () {
         $('.slick-list .slick-current').prev().find('a').show();
     });
 
-
 });
